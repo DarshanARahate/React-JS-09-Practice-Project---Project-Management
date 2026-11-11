@@ -5,5 +5,5 @@ export default function Button({ children, ...props }) {
             {...props}>
             {children}
         </button>
-    )
+    );
 }
